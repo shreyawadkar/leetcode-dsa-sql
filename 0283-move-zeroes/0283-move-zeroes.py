@@ -5,12 +5,12 @@ class Solution(object):
 
         while i < len(nums):
             if nums[i] == 0:
-                zero_list.append(nums.pop(i))  
+                zero_list.append(nums.pop(i))
             else:
-                i += 1  
-
-    
+                i += 1
+        
         nums.extend(zero_list)
         return nums
+    
         
-        
+
