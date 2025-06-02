@@ -1,9 +1,9 @@
 class Solution(object):
     def missingNumber(self, nums):
-        b = len(nums)+1
-        c = range(b)
+        # b = len(nums)+1
+        # c = range(b)
         
-        for j in c:
+        for j in range(0, len(nums)+1):
             if j in nums:
                 continue
             else:
