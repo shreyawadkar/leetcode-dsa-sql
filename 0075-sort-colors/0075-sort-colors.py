@@ -1,9 +1,9 @@
 class Solution(object):
     def sortColors(self, nums):
-        groups = defaultdict(list)
-        for num in nums:
-            groups[num].append(num)
+        unique_list = defaultdict(list)
+        for i in nums:
+            unique_list[i].append(i)
         
         nums[:] = []
-        for key in sorted(groups.keys()):
-            nums.extend(groups[key])
+        for j in sorted(unique_list.keys()):
+            nums.extend(unique_list[j])
