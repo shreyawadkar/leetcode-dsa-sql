@@ -4,12 +4,14 @@ class Solution(object):
         for i in nums:
             element[i].append(i)
 
-        
-        max_key = None
-        max_len = 0
-        for key, group in element.items():
-            if len(group) > max_len:
-                max_key = key
-                max_len = len(group)
+        big_key = None
+        big_len = 0
 
-        return(max_key)
+        for key,i in element.items():
+            if len(i) > big_len:
+                big_len = len(i)
+                big_key = key
+        return(big_key)
+
+        
+        
