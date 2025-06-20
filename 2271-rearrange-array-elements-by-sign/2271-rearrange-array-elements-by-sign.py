@@ -7,12 +7,10 @@ class Solution(object):
                 a.append(i)
             else:
                 b.append(i)
-        c = []
-        for i in range(len(nums)):
-            if i % 2 == 0:
-                c.append(a[i // 2])
-            else:
-                c.append(b[i // 2])
-
-        return(c)
+        res = []
+        for i in range(len(a)):
+            res.append(a[i])
+            res.append(b[i])
+    
+        return res
         
