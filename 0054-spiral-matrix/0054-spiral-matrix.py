@@ -1,6 +1,6 @@
 class Solution(object):
     def spiralOrder(self, matrix):
-        
+       
         result = []
         if not matrix:
             return result
@@ -32,3 +32,5 @@ class Solution(object):
                 left += 1
 
         return result
+
+            
