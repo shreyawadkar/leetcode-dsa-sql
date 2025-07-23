@@ -4,7 +4,7 @@ class Solution(object):
         m1 = min(n, len(nums1))
     
     
-        for _ in range(m1):
+        for i in range(m1):
             nums1.pop()
         
         
