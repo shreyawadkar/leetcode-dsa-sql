@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +115,20 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0560-subarray-sum-equals-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
