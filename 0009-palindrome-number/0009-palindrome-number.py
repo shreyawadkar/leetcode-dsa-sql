@@ -1,5 +1,6 @@
 class Solution(object):
     def isPalindrome(self, x):
+        
         num = x
         result = 0
         while num > 0:
