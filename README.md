@@ -60,6 +60,7 @@
 | [0048-rotate-image](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1585-the-kth-factor-of-n) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 | [0118-pascals-triangle](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -139,4 +141,12 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1585-the-kth-factor-of-n) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
