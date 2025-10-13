@@ -149,4 +149,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
