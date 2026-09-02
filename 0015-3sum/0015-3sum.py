@@ -1,30 +1,40 @@
 class Solution(object):
     def threeSum(self, nums):
         nums.sort()
-        res = []
-        n = len(nums)
-        
-        for i in range(n - 2):
-          
-            if i > 0 and nums[i] == nums[i - 1]:
+        result = []
+
+
+        for i in range (len(nums) - 2):
+            if nums[i] > 0:
+                break
+
+            left = i + 1
+            right = len(nums) - 1
+ 
+            if i > 0 and nums[i] == nums[i-1] :
                 continue
 
-            j, k = i + 1, n - 1
-            while j < k:
-                s = nums[i] + nums[j] + nums[k]
-                if s == 0:
-                    res.append([nums[i], nums[j], nums[k]])
+            while left < right:
+              
+               current_sum = nums[i] + nums[left] + nums[right]
+               if current_sum < 0:
+                left += 1
+                
+               elif current_sum > 0:
+                right -= 1
 
-                   
-                    while j < k and nums[j] == nums[j + 1]:
-                        j += 1
-                    while j < k and nums[k] == nums[k - 1]:
-                        k -= 1
+               else:
+                result.append([nums[i],nums[left],nums[right]])
 
-                    j += 1
-                    k -= 1
-                elif s < 0:
-                    j += 1
-                else:
-                    k -= 1
-        return res
+                left += 1
+                right -= 1
+
+                while left < right and nums[left] == nums[left-1]:
+                    left += 1
+
+                while left < right and nums[right] == nums[right+1]:
+                    right -= 1
+            
+        return result
+
+            
