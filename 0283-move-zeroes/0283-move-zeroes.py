@@ -1,16 +1,12 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        zero_list = []
-        i = 0
-
-        while i < len(nums):
-            if nums[i] == 0:
-                zero_list.append(nums.pop(i))
-            else:
-                i += 1
-        
-        nums.extend(zero_list)
+        write = 0
+        for read in range(len(nums)):
+            if nums[read] != 0:
+                nums[write], nums[read] = nums[read], nums[write]
+                write +=1
         return nums
-    
         
+                
 
+        
