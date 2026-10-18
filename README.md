@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0169-majority-element) |
@@ -182,5 +183,10 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
