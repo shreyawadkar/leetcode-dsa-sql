@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -84,6 +85,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0493-reverse-pairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyawadkar/leetcode-dsa-sql/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
